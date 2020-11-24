@@ -6,7 +6,7 @@ Now that you understand how to negate a proposition involving and it stands to r
 
 Given that the negation of a proposition is the proposition that is true whenever the original proposition is false.  The truth table for the negation for the logical proposition involving the logical disjunction operator above must be:
 
-![](neg_disjunction.ng
+![](neg_disjunction.png)
 
 __To complete the exercise you need to use the ideas above to complete the `negationOutside` function in the panel on the left.__  The two functions on the panel in the left take the following arguments:
 
